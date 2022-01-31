@@ -127,5 +127,5 @@ environments:
                 jdbcInterceptors: ConnectionState
                 defaultTransactionIsolation: 2 # TRANSACTION_READ_COMMITTED
 
-    server:
-        contextPath: '/cs4760progassign'
+server:
+    contextPath: '/cs4760progassign'
